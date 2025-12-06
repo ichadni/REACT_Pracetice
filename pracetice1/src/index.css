@@ -1,0 +1,14 @@
+body{
+  background: blanchedalmond;
+  color:rgb(17, 194, 194)
+}
+button{
+  padding:10px;
+  border:none;
+  border-radius: 5px;
+  background-color:limegreen;
+  color:rgb(72, 68, 72);
+  margin-right: 10px;
+  font-size: 2rem;
+  width: 80px;
+}
